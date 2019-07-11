@@ -1,3 +1,3 @@
-echo $DISPLAY
+#echo $DISPLAY
 echo "HELLO"
 #setenv DISPLAY
